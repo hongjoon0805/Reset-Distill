@@ -126,7 +126,8 @@ python3 main_garage.py --cl_method rnd --rl_method sac --env_type metaworld --lo
 > [!CAUTION]
 > Before running R&D, you should prepare the models and rollouts by running the single task experiment.
 
-If you want to run the experiments using PPO, please modify `--rl_method` as ppo
+If you want to run the experiments using PPO, please modify `--rl_method` as `ppo`
+
 ---
 
 ## Citation
